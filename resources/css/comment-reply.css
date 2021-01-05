@@ -1,0 +1,10 @@
+.comment{list-style: none; margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid #aaa;}
+.avatar{display: inline-block;}
+.commentmetadata{font-size: 11px; display: inline-block;}
+.reply{padding-top: 10px;}
+.comment-reply-link , .form-submit .submit{margin: 8px 0; background: #333; border: 1px solid #aaa; border-radius: 5px; color: #fafafa; padding: 2px 4px;}
+.children{margin: 10px 20px;  border: 1px solid #eee; }
+.children .comment{ background-color: #fafafa; border: none; padding: 5px; }
+
+.comment-respond textarea{width: 100%; margin: 5px 0; border: 1px solid #aaa;}
+.comment-respond input{margin: 5px 0; border: 1px solid #bbb; padding: 1px;}
